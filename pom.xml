@@ -4,10 +4,10 @@
     
     <groupId>utfpr.ct.dainf.if62c.pratica</groupId>
     <artifactId>Pratica-6.1</artifactId>
-    <version>FP2 :: Prática :: 6.1</version>
+    <version>Pratica61-SNAPSHOT</version>
     <packaging>jar</packaging>
     
-    <name>FP2 :: Template :: Básico</name>
+    <name>Pratica-6.1</name>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
